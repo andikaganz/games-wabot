@@ -49,7 +49,7 @@ function button(teks, user) {
     
     const buttonMessage = {
         contentText: teks,
-        footerText: '©games-wabot',
+        footerText: '©andika bot 2021-2022',
         buttons: buttons,
         headerType: 1
     }
